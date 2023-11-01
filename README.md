@@ -1,5 +1,4 @@
-**Problem Statement:
-**
+**Problem Statement:**
 The project aims to create a helpful virtual guide using IBM Cloud Watson Assistant. This virtual guide will be customized to assist users on popular messaging platforms like Facebook Messenger and Slack. The chatbot's primary functions include providing useful information, answering frequently asked questions (FAQs), and offering a friendly conversational experience. The overarching goal is to empower users with quick access to information and create meaningful connections through this virtual guide.
 
 
